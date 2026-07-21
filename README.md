@@ -34,16 +34,16 @@ Most recently I've been building **TRF Flow Terminal**, a serverless pipeline (G
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwal000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajjwal000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajjwal000&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=prajjwal000&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 ### 🔥 Contribution Activity & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prajjwal000&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prajjwal000&theme=dark&hide_border=false" />
 </p>
 
 ---
