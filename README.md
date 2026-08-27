@@ -33,12 +33,16 @@ Most recently I've been building **TRF Flow Terminal**, a serverless pipeline (G
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajjwal000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=prajjwal000&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajjwal000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Prajjwal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal000&theme=tokyonight&hide_border=true&background=0D1117" alt="Prajjwal's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwal000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
 
 ### 🔥 Contribution Activity & Streak
 
@@ -53,3 +57,5 @@ Most recently I've been building **TRF Flow Terminal**, a serverless pipeline (G
 <p align="left">
   <a href="https://linkedin.com/in/prajjwal74" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=prajjwal000&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
