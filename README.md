@@ -19,4 +19,4 @@ I'm particularly drawn to Turso's architecture and the idea of making database e
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=prajjwal000&theme=tokyonight)](https://github.com/FajarKim/github-readme-profile)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajjwal000&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[prajjwalverma74@gmail.com](mailto:prajjwalverma74@gmail.com) · [linkedin.com/in/prajjwal74](https://linkedin.com/in/prajjwal74)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajjwalverma74@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajjwal74)
